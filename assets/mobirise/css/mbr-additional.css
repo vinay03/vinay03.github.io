@@ -823,3 +823,44 @@ a {
 .cid-u9lgUmmFTH .mbr-section-btn {
   text-align: center;
 }
+.cid-u9llRhSLx3 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-u9llRhSLx3 .social-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.cid-u9llRhSLx3 .social-row .soc-item {
+  margin: 8px;
+}
+.cid-u9llRhSLx3 .social-row .soc-item a:hover .mbr-iconfont,
+.cid-u9llRhSLx3 .social-row .soc-item a:focus .mbr-iconfont {
+  background-color: #f7f7f7;
+}
+.cid-u9llRhSLx3 .social-row .soc-item a .mbr-iconfont {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  background-color: #f7f7f7;
+  color: #232323;
+  transition: all 0.3s ease-in-out;
+}
+.cid-u9llRhSLx3 .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-u9llRhSLx3 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-u9llRhSLx3 .mbr-section-title,
+.cid-u9llRhSLx3 .social-list {
+  color: #000000;
+}
